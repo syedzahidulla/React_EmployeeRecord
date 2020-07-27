@@ -43,7 +43,55 @@
             "end_time": "Mar 16 2020 8:02PM"
           }
         ]
-      }
+      },
+        {
+        "id": "ABCD1E",
+        "real_name": "Syed Spengler",
+        "tz": "America/Los_Angeles",
+        "activity_periods": [
+          {
+            "start_time": "Jan 1 2020  1:33PM",
+            "end_time": "Jan 1 2020 1:54PM"
+          },
+          {
+            "start_time": "Jul 1 2020  11:11AM",
+            "end_time": "Jul 1 2020 2:00PM"
+          },
+          {
+            "start_time": "Jun 16 2020  5:33PM",
+            "end_time": "Jun 16 2020 8:02PM"
+          },
+          {
+            "start_time": "Aug 26 2020  5:33PM",
+            "end_time": "Aug 26 2020 8:02PM"
+          }
+        ]
+      },
+        {
+        "id": "XYZB2",
+        "real_name": "Zahid Spengler",
+        "tz": "America/Los_Angeles",
+        "activity_periods": [
+          {
+            "start_time": "Jul 27 2020  1:33PM",
+            "end_time": "Jul 27 2020 1:54PM"
+          },
+          {
+            "start_time": "Jul 26 2020  11:11AM",
+            "end_time": "Mar 26 2020 2:00PM"
+          },
+          {
+            "start_time": "Mar 02 2020  5:33PM",
+            "end_time": "Mar 02 2020 8:02PM"
+          },
+          {
+            "start_time": "Jul 26 2020  5:33PM",
+            "end_time": "Jul 26 2020 8:02PM"
+          }
+        ]
+      },
+
+
     ]
   }
 ]
